@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NARESH MAYARI</h1>
 <h3 align="center">I am currently in the fourth year of my engineering there I have developed a strong interest in biotechnology and Engineering my goal is to join a repeated organisation where I can utilise my technical and leadership skills</h3>
 
-- 👨‍💻 All of my projects are available at [https://kunalnagarkoti.github.io/Kunal-portfolio/](https://kunalnagarkoti.github.io/Kunal-portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/naresh-1388/naresh-portfolio](https://github.com/naresh-1388/naresh-portfolio)
 
 - 📫 How to reach me **mayarinaresh123@gmail.com**
 
