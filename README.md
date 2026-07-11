@@ -1,14 +1,102 @@
-<h1 align="center">Hi 👋, I'm NARESH MAYARI</h1>
-<h3 align="center">I am currently in the fourth year of my engineering there I have developed a strong interest in Computer Science and Engineering my goal is to join a repeated organisation where I can utilise my technical and leadership skills</h3>
+<h1 align="center">Hi 👋, I'm Naresh Mayari</h1>
+<h3 align="center">Data Engineer | Snowflake | Databricks | dbt | PySpark</h3>
 
-- 👨‍💻 All of my projects are available at [https://naresh-1388.github.io/naresh-portfolio/](https://naresh-1388.github.io/naresh-portfolio/)
-
-- 📫 How to reach me **mayarinaresh123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mayari-naresh-082b38188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayari-naresh-082b38188/" height="30" width="40" /></a>
+<p align="center">
+Building scalable Data Engineering solutions using modern cloud technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 💼 Data Engineer
+- 🌱 Passionate about Cloud Data Engineering & Modern Data Platforms
+- 📂 Portfolio: https://naresh-1388.github.io/naresh-portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/naresh-m-2407t/
+- 📫 Email: **mayarinaresh123@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<a href="https://www.databricks.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.snowflake.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.getdbt.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://airflow.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://aws.amazon.com/s3/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/storage/blobs/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Core Expertise
+
+- ETL / ELT Pipeline Development
+- Data Modeling
+- Cloud Data Warehousing
+- Incremental Loading
+- Data Transformation
+- Data Quality
+- Performance Optimization
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/naresh-m-2407t/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+</a>
+
+<a href="mailto:mayarinaresh123@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+</a>
+</p>
