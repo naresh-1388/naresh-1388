@@ -4,12 +4,9 @@
 <p align="center">
 Building scalable Data Engineering solutions using modern cloud technologies.
 </p>
-
 ---
+### 👨‍💻 Connect With Me
 
-### 👨‍💻 About Me
-
-- 💼 Data Engineer
 - 📂 Portfolio: https://naresh-1388.github.io/naresh-portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/naresh-m-2407t/
 - 📧 Email: **mayarinaresh123@gmail.com**
@@ -20,19 +17,19 @@ Building scalable Data Engineering solutions using modern cloud technologies.
 
 <p align="left">
 
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/apachekafka" width="40"/>
-<img src="https://cdn.simpleicons.org/mysql" width="40"/>
-<img src="https://cdn.simpleicons.org/apachespark" width="40"/>
-<img src="https://cdn.simpleicons.org/apacheairflow" width="40"/>
-<img src="https://cdn.simpleicons.org/amazons3" width="40"/>
-<img src="https://cdn.simpleicons.org/amazonaws" width="40"/>
-<img src="https://cdn.simpleicons.org/microsoftazure" width="40"/>
-<img src="https://cdn.simpleicons.org/python" width="40"/>
-<img src="https://cdn.simpleicons.org/git" width="40"/>
-<img src="https://cdn.simpleicons.org/github" width="40"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="38"/>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="38"/>
+<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="38"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38"/>
 
 </p>
 
