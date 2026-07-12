@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naresh Mayari</h1>
-<h3 align="center">Data Engineer | Snowflake | SQL | DBT | Databricks</h3>
 
 <p align="center">
-Building scalable Data Engineering solutions using modern cloud technologies.
+Focused on scalable data pipelines, cloud data warehousing, and modern data engineering practices.
 </p>
 
 ## 🛠️ Tech Stack
