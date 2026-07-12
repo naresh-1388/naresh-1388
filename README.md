@@ -9,7 +9,6 @@ Building scalable Data Engineering solutions using modern cloud technologies.
 
 ### 👨‍💻 Connect With Me
 
-- 📂 Portfolio: https://naresh-1388.github.io/naresh-portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/naresh-m-2407t/
 - 📧 Email: **mayarinaresh123@gmail.com**
 
@@ -18,21 +17,33 @@ Building scalable Data Engineering solutions using modern cloud technologies.
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.icons8.com/color/48/databricks.png" title="Databricks" width="45"/>
+  <img src="https://img.icons8.com/color/48/snowflake.png" title="Snowflake" width="45"/>
+  <img src="https://img.icons8.com/color/48/dbt.png" title="dbt" width="45"/>
+  <img src="https://img.icons8.com/color/48/apache-kafka.png" title="Kafka" width="45"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL" width="45"/>
+  <img src="https://img.icons8.com/color/48/apache-spark.png" title="PySpark" width="45"/>
+  <img src="https://img.icons8.com/color/48/apache-airflow.png" title="Airflow" width="45"/>
+  <img src="https://img.icons8.com/color/48/amazon-s3.png" title="Amazon S3" width="45"/>
+  <img src="https://img.icons8.com/color/48/azure-storage.png" title="ADLS Gen2" width="45"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="45"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="45"/>
+  <img src="https://img.icons8.com/material-rounded/48/github.png" title="GitHub" width="45"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="35"/>
-
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-EA580C?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-
+<p align="center">
+<b>Databricks</b> &nbsp;&nbsp;
+<b>Snowflake</b> &nbsp;&nbsp;
+<b>dbt</b> &nbsp;&nbsp;
+<b>Kafka</b> &nbsp;&nbsp;
+<b>SQL</b> &nbsp;&nbsp;
+<b>PySpark</b> &nbsp;&nbsp;
+<b>Airflow</b> &nbsp;&nbsp;
+<b>S3</b> &nbsp;&nbsp;
+<b>ADLS</b> &nbsp;&nbsp;
+<b>Python</b> &nbsp;&nbsp;
+<b>Git</b> &nbsp;&nbsp;
+<b>GitHub</b>
 </p>
 
 ---
