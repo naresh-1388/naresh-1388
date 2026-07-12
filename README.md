@@ -5,16 +5,21 @@
 Building scalable Data Engineering solutions using modern cloud technologies.
 </p>
 
-### 👨‍💻 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/naresh-m-2407t/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mayarinaresh123@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-</p> 
+## 🙋 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/naresh-m-2407t/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayarinaresh123@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="52"/>
+</a>
+
+</p>
 
 <p align="center">
   <img src="./techstack.png" width="100%"/>
