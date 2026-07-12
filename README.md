@@ -5,8 +5,6 @@
 Building scalable Data Engineering solutions using modern cloud technologies.
 </p>
 
----
-
 ### 👨‍💻 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/naresh-m-2407t/
@@ -14,12 +12,9 @@ Building scalable Data Engineering solutions using modern cloud technologies.
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="./techstack.png" width="850"/>
+  <img src="./techstack.png" width="100%"/>
 </p>
----
 
 ## 🚀 Areas of Expertise
 
