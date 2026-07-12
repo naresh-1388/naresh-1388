@@ -6,12 +6,9 @@ Building scalable Data Engineering solutions using modern cloud technologies.
 </p>
 
 ### 👨‍💻 Connect With Me
-
 - 💼 LinkedIn: https://www.linkedin.com/in/naresh-m-2407t/
 - 📧 Email: **mayarinaresh123@gmail.com**
-
----
-
+  
 <p align="center">
   <img src="./techstack.png" width="100%"/>
 </p>
